@@ -1,0 +1,17 @@
+[
+  {
+    "name": "a",
+    "duration": 2.0,
+    "status": "done"
+  },
+  {
+    "name": "b",
+    "duration": 1.7,
+    "status": "missed"
+  },
+  {
+    "name": "c",
+    "duration": 5.0,
+    "status": "reschedule"
+  }
+]
