@@ -1,0 +1,8 @@
+Auto-Generated Schedule
+----------------------------------------
+10:00 - 12:00 | study (school)
+12:00 - 12:15 | Break (break)
+12:15 - 15:15 | study (school)
+15:15 - 15:30 | Break (break)
+15:30 - 15:36 | exit (personal)
+15:36 - 17:12 | buy flowers (personal)

@@ -1,0 +1,47 @@
+[
+  {
+    "name": "study",
+    "priority": "high",
+    "category": "school",
+    "duration": 2.0,
+    "status": "done",
+    "due_date": null,
+    "subtasks": []
+  },
+  {
+    "name": "study",
+    "priority": "high",
+    "category": "school",
+    "duration": 3.0,
+    "status": "done",
+    "due_date": null,
+    "subtasks": []
+  },
+  {
+    "name": "exit",
+    "priority": "high",
+    "category": "personal",
+    "duration": 0.1,
+    "status": "done",
+    "due_date": null,
+    "subtasks": []
+  },
+  {
+    "name": "buy flowers",
+    "priority": "medium",
+    "category": "personal",
+    "duration": 1.6,
+    "status": "missed",
+    "due_date": null,
+    "subtasks": []
+  },
+  {
+    "name": "work",
+    "priority": "low",
+    "category": "work",
+    "duration": 3.0,
+    "status": "reschedule",
+    "due_date": null,
+    "subtasks": []
+  }
+]
